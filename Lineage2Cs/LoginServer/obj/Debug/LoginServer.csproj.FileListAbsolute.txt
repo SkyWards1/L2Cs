@@ -1,0 +1,1 @@
+C:\Lineage2Cs\LoginServer\bin\Debug\LoginServer.exe.config
